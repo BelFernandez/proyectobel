@@ -1,0 +1,5 @@
+CLEARDB_DATABASE_URL: mysql://b3572adfb100e3:cb17f964@us-cdbr-east-06.cleardb.net/heroku_cb714870fa6403b?reconnect=true
+DB name: 	heroku_cb714870fa6403b 
+Host: 		us-cdbr-east-06.cleardb.net 
+Password: 	cb17f964 
+User: 		b3572adfb100e3 
